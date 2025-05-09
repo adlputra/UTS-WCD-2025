@@ -1,5 +1,3 @@
----
-
 # 🧑‍💻 UTS Web Client Development
 
 Repositori ini merupakan hasil pengerjaan *Ujian Tengah Semester (UTS)* mata kuliah *Web Client Development* tahun 2025. Ujian ini bersifat praktik dan terdiri dari enam proyek/tugas yang telah diselesaikan sesuai ketentuan.
@@ -21,7 +19,6 @@ Topik yang dibahas mencakup:
 Seluruh pengerjaan mengikuti prinsip *clean code, **modularitas, dan **desain responsif*.
 Setiap soal juga dilengkapi artikel Medium sebagai dokumentasi tambahan dan refleksi proses.
 
----
 
 ## 📂 Pengerjaan Soal
 
