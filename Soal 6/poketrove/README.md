@@ -46,6 +46,7 @@ Berikut Model utama dari website:
 ---
 
 📄 Artikel Medium: [Mengenal State Management di React: Dari Dasar hingga Tools Populer](https://medium.com/@putraliadli/mengenal-state-management-di-react-dari-dasar-hingga-tools-populer-ff70d4d18314)
+
 ---
 
 
