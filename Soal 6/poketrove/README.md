@@ -35,3 +35,17 @@ npm run dev
 
 Aplikasi akan berjalan di `http://localhost:5173/` secara default.
 
+---
+
+## Screenshot
+
+Berikut tampilan utama dari website:
+
+![Preview Website](public/screenshot.jpeg) 
+
+---
+
+📄 Artikel Medium: [Mengenal State Management di React: Dari Dasar hingga Tools Populer](https://medium.com/@putraliadli/mengenal-state-management-di-react-dari-dasar-hingga-tools-populer-ff70d4d18314)
+---
+
+
