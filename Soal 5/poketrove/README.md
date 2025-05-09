@@ -35,3 +35,12 @@ npm run dev
 
 Aplikasi akan berjalan di `http://localhost:5173/` secara default.
 
+---
+
+## Screenshot
+
+Berikut tampilan utama dari website:
+
+![Preview Website](public/screenshot.jpeg) 
+
+
