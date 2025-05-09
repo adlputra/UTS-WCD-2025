@@ -29,7 +29,7 @@ Halaman web ini bertujuan untuk mempromosikan layanan workout eksklusif dengan t
 
 Berikut tampilan utama dari website:
 
-![Preview Website](images/screenshot.jpeg) <!-- Jika ada screenshot -->
+![Preview Website](images/screenshot.jpeg) 
 
 ## Artikel Medium
 
