@@ -43,4 +43,10 @@ Berikut tampilan utama dari website:
 
 ![Preview Website](public/screenshot.jpeg) 
 
+---
+
+📄 Artikel Medium: [Mulai dari Nol: Memahami React Hooks dengan Cara Simpel](https://medium.com/@putraliadli/mulai-dari-nol-memahami-react-hooks-dengan-cara-simpel-98626b6cc7a2)
+
+---
+
 
