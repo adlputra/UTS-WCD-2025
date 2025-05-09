@@ -37,11 +37,11 @@ Aplikasi akan berjalan di `http://localhost:5173/` secara default.
 
 ---
 
-## Screenshot
+## Video Model
 
-Berikut tampilan utama dari website:
+Berikut Model utama dari website:
 
-![Preview Website](public/screenshot.jpeg) 
+![Preview Website](public/Pokétrove-Pokemon.mp4) 
 
 ---
 
