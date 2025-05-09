@@ -10,21 +10,6 @@ Halaman web ini bertujuan untuk mempromosikan layanan workout eksklusif dengan t
 * Debugging kode JavaScript agar berjalan sesuai fungsi.
 * Styling ulang CSS untuk menciptakan layout yang rapi, konsisten, dan menarik.
 
-## Struktur Proyek
-
-
-Soal-3/
-├── images/                 # Folder berisi aset gambar SVG
-│   ├── balls.svg
-│   ├── logo.svg
-│   ├── whatsapp_icon.svg
-│   └── woman.svg
-├── index.html              # Struktur halaman utama
-├── script.js               # Skrip JavaScript (jika ada interaktivitas)
-├── style.css               # File CSS utama untuk styling
-└── README.md               # Dokumentasi proyek
-
-
 ## Fitur
 
 * Tampilan responsif untuk desktop dan perangkat mobile.
@@ -44,7 +29,7 @@ Soal-3/
 
 Berikut tampilan utama dari website:
 
-![Preview Website](preview.jpg) <!-- Jika ada screenshot -->
+![Preview Website](images/screenshot.jpeg) <!-- Jika ada screenshot -->
 
 ## Artikel Medium
 
